@@ -6,7 +6,9 @@ Overview
 ============
 
 The network has the following architecture:
-input - fully connected layer - RELU - fully connected layer - softmax
+input - fully connected layer - RELU - fully connected layer - softmax.
+
+
 The outputs of the second fully-connected layer are the scores for each class.
 
 
